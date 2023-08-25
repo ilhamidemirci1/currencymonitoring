@@ -29,4 +29,4 @@ while True:
 
     kit.sendwhatmsg ("#enter phone number +905..", dolarmsg + "\n" + EURmsg + "\n" + ua1msg, time.localtime().tm_hour, time.localtime().tm_min + 1)
 
-    time.sleep(3600)  # Wait for 2 hours before fetching and sending again
+    time.sleep(3600)  # Wait for 1 hours before fetching and sending again
